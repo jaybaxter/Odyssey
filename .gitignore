@@ -73,3 +73,6 @@ GameData/TweakScale/*
 GameData/VesselView/*
 GameData/ViewInternals/*
 GameData/WheelSounds/*
+Launcher.app/*
+buildID.txt
+readme.txt
